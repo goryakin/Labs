@@ -1,6 +1,6 @@
-package com.mainacad.modul1.labs_4;
+package com.mainacad.modul1;
 
-public class Lab1 {
+public class primitivLab1_4_1 {
     public static void main(String[] args) {
         byte b=12;
         System.out.println("byte="+b);

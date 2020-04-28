@@ -1,0 +1,5 @@
+-Folder1
+-Folder2
+-structure.txt
+-task4.jpg
+-task4.txt
